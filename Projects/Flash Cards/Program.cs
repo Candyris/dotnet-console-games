@@ -33,7 +33,7 @@ while (true)
 		  |  M -> Mike       N -> November    O -> Oscar      P -> Papa
 		  |  Q -> Quebec     R -> Romeo       S -> Sierra     T -> Tango
 		  |  U -> Uniform    V -> Victor      W -> Whiskey    X -> X-ray
-		  |  Y -> Yankee     Z -> Zulu");
+		  |  Y -> Yankee     Z -> Zulu
 
 		  Press [enter] to continue or [escape] to quit...
 		""");
